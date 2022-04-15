@@ -26,7 +26,7 @@
 	"popAppImage": "https://i.imgur.com/yQVIgLc.jpeg",
 	"popAppPackage": "",
 	"popAppIsActive": true,
-	"Interval_Time":30000, 
+	"Interval_Time":40000, 
 
 	"isPage1Activate": true,
 	"isPage2Activate": false,
@@ -54,7 +54,7 @@
 		{
 			"title": "Big Lots",
 			"image": "https://raw.githubusercontent.com/HaytamFrh/lotsmg/main/big%20logo.png",
-			"url": "https://www.biglots.com/"
+			"url": "https://"
 		}
 		
 
